@@ -77,3 +77,4 @@ date_dimension.createOrReplaceTempView('date_table')
 
 # COMMAND ----------
 
+adafaww q
